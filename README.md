@@ -10,3 +10,5 @@ Linux :
 Windows :
 `.env/bin/activate`
 
+install ultralytics
+`pip install ultralytics`
